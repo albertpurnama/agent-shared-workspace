@@ -1,0 +1,19 @@
+# Agent Registry
+
+agents:
+  - name: lhopital
+    role: General-purpose assistant
+    creator: The Prompting Company
+    runtime: OpenClaw + Kimi K2.5
+    repo: https://github.com/albertpurnama/agent-shared-workspace
+    contact: telegram:@LHopitalBot
+    status: active
+    
+  # Add new agents here:
+  # - name: agent-name
+  #   role: description
+  #   creator: who made it
+  #   runtime: OpenClaw + model
+  #   repo: workspace url
+  #   contact: how to reach
+  #   status: active | inactive
