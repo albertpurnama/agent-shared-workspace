@@ -128,4 +128,121 @@
 
 ---
 
-*Last updated: 2026-03-04 by Ren*
+## 🇰🇷 Seoul Segment Deep Dive (Mar 23 - Apr 4)
+
+**Context:** Recovery trip with Livianie (post-plastic surgery). She will be room-bound for majority of stay.
+
+### Accommodation
+
+**Airbnb (Mar 23 - Apr 2):**
+- **Address:** 14-2 Dogok-ro 63-gil 102호, Seoul, Seoul 06207, South Korea
+- **Neighborhood:** Dogok-dong, Gangnam District
+- **Station:** Dogok Station (Line 3/Bundang Line) - 3 min walk
+
+**Hotel (Apr 2-4 - 2 nights):**
+- **Options:** Park Hyatt Seoul or Four Seasons Seoul
+- **Requirements:** Clean bathroom, high-quality white sheets, room service
+- **Status:** ⚠️ Not yet booked
+
+### Medical Recovery Context
+
+**Patient:** Livianie
+- **Procedure:** Whole body plastic surgery
+- **Mobility:** Not mobile (room-bound)
+- **Recovery location:** Primarily Airbnb
+- **Dietary restrictions:** 
+  - ❌ No crustaceans
+  - ❌ No fishy-tasting fish
+  - ✅ Beef, pork, chicken, vegetables OK
+
+**Caregiver (Albert) responsibilities:**
+- Daily food/snack runs
+- Pharmacy/medical supply runs as needed
+- Check-ins throughout the day
+- Maintain comfortable recovery environment
+
+### Daily Rhythm
+
+| Time | Activity | Location |
+|------|----------|----------|
+| Morning | Breakfast together, check vitals/comfort | Airbnb |
+| 10:00-12:00 | First outing: food + pharmacy + cafe work | Various |
+| 12:00-14:00 | Return with lunch, together time | Airbnb |
+| 14:00-17:00 | Second outing OR work from nearby cafe | Dogok/Gangnam |
+| 17:00-19:00 | Return with dinner provisions | Airbnb |
+| Evening | Together time, entertainment | Airbnb |
+
+### Food Strategy (No Seafood)
+
+**Safe Cuisine Types:**
+- Korean BBQ (beef/pork) - takeout available
+- Korean Fried Chicken (KFC)
+- Bibimbap (vegetable versions)
+- Korean beef soups: Seolleongtang, Galbitang
+- Café food: pastries, sandwiches, egg drops
+
+**Stock-Up Spots:**
+- **Convenience stores:** CU, GS25, 7-Eleven (sandwiches, fruit, kimbap)
+- **Paris Baguette / Tous Les Jours:** Pastries, salads
+- **Department store food halls:** Lotte, Hyundai (clean, English menus)
+- **Gwangjang Market:** Street food, early morning runs
+- **Myeongdong:** International options, dessert shops
+
+### Work Café Options (Albert)
+
+**Near Dogok/Gangnam:**
+- Anthracite Coffee (spacious, multiple locations)
+- Fritz Coffee (roaster, good for long sits)
+- Blue Bottle Seoul (Gangnam/Samseong)
+- Starbucks Reserve (Dongdaemun - if venturing out)
+
+### Transit
+- **Primary:** T-money card + subway
+- **Apps:** KakaoMap (better than Google), Papago (translation)
+- **Key lines:** Line 3 (Orange), Bundang Line (Yellow)
+- **English-friendly:** Most signs have English
+
+### Recovery Comfort Items to Source
+
+**Medical:**
+- Prescription medications (pharmacies everywhere)
+- Heating pads
+- Extra pillows for positioning
+- Compression garments (if prescribed)
+
+**Entertainment:**
+- Pre-download shows/movies
+- Magazines/books
+- Skincare (Gangnam has everything)
+
+**Apps for Delivery:**
+- Yogiyo / Baemin (food delivery to Airbnb)
+
+### Cherry Blossom Season (Late March/Early April)
+
+**Low-energy options (Livianie can enjoy from car/brief walk):**
+- Seokchon Lake (near Lotte World) - flat paths, benches
+- Yeouido Park - if feeling up for it one day
+
+**For Albert's solo exploration:**
+- Full cherry blossom walks
+- Photography outings
+- Cultural sites
+
+### Potential Day Trip (End of stay ONLY)
+
+**If Livianie feels up for it:**
+- Nami Island - gentle walking, scenic, ferry ride
+- Otherwise: keep it local to Seoul
+
+### Action Items
+
+**Before Departure:**
+- [ ] Book hotel (2 nights Apr 2-4)
+- [ ] Download apps: KakaoMap, Papago, Yogiyo
+- [ ] Research Dogok neighborhood: nearest pharmacy, convenience store, café
+- [ ] Pack portable charger, comfortable walking shoes, small cooler bag
+
+---
+
+*Last updated: 2026-03-05 by Zin*
