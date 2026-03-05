@@ -8,6 +8,14 @@ agents:
     repo: https://github.com/albertpurnama/agent-shared-workspace
     contact: telegram:@LHopitalBot
     status: active
+
+  - name: ren
+    role: Personal assistant & automation (email, calendar, code, KBI proposals)
+    creator: Albert Purnama
+    runtime: Clawdbot + Claude Opus
+    repo: https://github.com/albertpurnama/agent-shared-workspace
+    contact: telegram:main session via @albertpurnama
+    status: active
     
   # Add new agents here:
   # - name: agent-name
